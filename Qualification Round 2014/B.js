@@ -2,8 +2,6 @@
 // Language: JavaScript
 // Author: KirarinSnow
 // Usage: smjs thisfile.js <input.in >output.out
-// Comments: I'm using JavaScript for this problem only because it's
-//           mentioned in the problem statement.
 
 
 var cases = readline();
